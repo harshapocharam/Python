@@ -16,3 +16,5 @@ splited over \
 several linesa"""
 print(escapeSplitString)
 
+print("c:\\user\\tim\\notes")
+print(r"c:\user\tim\notes")
