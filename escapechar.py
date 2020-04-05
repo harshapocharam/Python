@@ -13,6 +13,6 @@ print(anotherSplitString)
 
 escapeSplitString = """This string has been \
 splited over \
-several lines"""
+several linesa"""
 print(escapeSplitString)
 
