@@ -11,3 +11,9 @@ print(parrot)
 
 print(parrot[10:14])
 print(parrot[10:])
+
+print(parrot[2:-4])
+print(parrot[-14:-6])
+print(parrot[0:6:2])
+print(parrot[0:3])
+print(parrot[1::4])
