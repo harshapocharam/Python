@@ -7,5 +7,4 @@ if age >= 18:
     print("please put on X in block")
 else:
     print("please come back in {0} years" .format(18-age))
-# elif age == 900:
-#     print("invalid")
+
