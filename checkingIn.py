@@ -8,6 +8,3 @@ if letter in parrot:
     print("{} is in {} ".format(letter, parrot))
 else:
     print("I dont see that letter")
-
-    string, list range tuple 
-    binary 
