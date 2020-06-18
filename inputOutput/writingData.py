@@ -1,4 +1,4 @@
-textList = ["One", "Two", "Three", "Four", "Five"]
+# textList = ["One", "Two", "Three", "Four", "Five"]
 
 
 # writeFile = open("original.txt", "w")
@@ -7,6 +7,12 @@ textList = ["One", "Two", "Three", "Four", "Five"]
 #     writeFile.write("\n")
 #     writeFile.close()
     
-writeFile = open("original.txt", "w").writelines(textList)
-    # writeFile.write("\n")
-  
+# writeFile = open("original.txt", "w").writelines(textList.append())
+#     # writeFile.write("\n")
+
+# cities = ["Hyderabad","New Yark","California"]
+# with open("cities.txt",'w') as cities_files:
+#     for city in cities:
+#         print(city, file=cities_files)
+
+cities = []
